@@ -10,3 +10,15 @@ also display math. $$\frac{1}{2} = \frac{2}{4}$$. Isn't that nice?
 
 Do Polymer elements work?
 <paper-button>I'm a button!</paper-button>
+
+There's also code:
+
+```java
+public class Foo
+{
+	public static void main(String[] args)
+	{
+		System.out.println("Hello, World!");
+	}
+}
+```
